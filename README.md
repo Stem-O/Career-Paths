@@ -46,15 +46,16 @@
 <p>A cybersecurity analyst protects company hardware, software, and networks from cybercriminals. <br>The analyst's primary role is to understand company IT infrastructure in detail, monitor it at all times, and evaluate threats that could potentially breach the network.</br>
 
 ## Things to consider to become a CyberSecurity Analyst
-* Pursue Computer Science Related Fields and Degree. 
-* Learn Programming Languages. 
-* Study Data Structures and Algorithms. 
-* Enhance Your Skills. 
-* Design and Build Software or Projects. 
-* Do Some Internships. 
-* Start Looking For Job Opportunities.
+* Learn cybersecurity fundamentals
+* Practice technical cybersecurity skills
+* Earn a cybersecurity certificate
+* Research the industry
+* Apply to relevant cybersecurity jobs
 
-
+| **CyberSecurity Learning Platforms** | 
+ [<img alt="Dev" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
+ [<img alt="Dev" src="https://images.ctfassets.net/kvf8rpi09wgk/1pDGaRqRO7QbXZjzDspmqp/d870104b7f0d0727d48d909e3d47cb41/fortinet.png" />](https://www.fortinet.com/)
+ :--- | :---
 <hr/> 
 
 ## Learning Sources 
