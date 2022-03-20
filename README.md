@@ -34,7 +34,7 @@
 ### FullStack Developer
 <p>A Full Stack Developer is someone who works with the Back End — or server side — of the application as well as the Front End, or client side. <br> Full Stack Developers have to have some skills in a wide variety of coding niches, from databases to graphic design and UI/UX management in order to do their job well.</p>
 
-</hr> 
+<hr/> 
 
 ## Learning Sources 
 
