@@ -3,7 +3,9 @@
 <p>A computer programmer, sometimes called a software developer,
   a programmer or more recently a coder, is a person who creates computer software.
 </p>
+
 ## Things to consider to become a Software Engineer
+
 * Pursue Computer Science Related Fields and Degree. ...
 * Learn Programming Languages. ...
 * Study Data Structures and Algorithms. ...
