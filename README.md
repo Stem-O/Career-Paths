@@ -1,6 +1,6 @@
 # <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0" width="30px"> Career-Paths for Programmers
 
-## <img src="http://assets.stickpng.com/images/584830fecef1014c0b5e4aa2.png" width="30px"> Software Engineer
+## 💻 Software Engineer
 <p>A computer programmer, sometimes called a software developer,<br>
   a programmer or more recently a coder, is a person who creates computer software.
 </p>
