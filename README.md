@@ -1,4 +1,4 @@
-# 👨‍💻 Career-Paths for Programmers
+#<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ikqra03zdnggljdu5vv0" width="50px"> Career-Paths for Programmers
 
 ## Software Engineer
 <p>A computer programmer, sometimes called a software developer,<br>
