@@ -40,7 +40,7 @@
 
 | **Programming Languages to consider learning** |  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  :--- | :---
-<hr/> 
+
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="30px"> CyberSecurity Analyst
 <p>A cybersecurity analyst protects company hardware, software, and networks from cybercriminals. <br>The analyst's primary role is to understand company IT infrastructure in detail, monitor it at all times, and evaluate threats that could potentially breach the network.</br>
@@ -54,6 +54,8 @@
 * Do Some Internships. 
 * Start Looking For Job Opportunities.
 
+
+<hr/> 
 ## Learning Sources 
 
  | **Sources** |  [<img alt="Dev" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />](https://www.codecademy.com/) [<img  alt="Dev" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/)  [<img  alt="Dev" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>](https://www.freecodecamp.org/) [<img  alt="Dev" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>](https://www.udemy.com/)  [<img alt="Dev" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6"/>](https://www.udacity.com/)  [<img  alt="Dev" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>](https://www.codewars.com/) 
