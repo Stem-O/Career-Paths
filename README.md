@@ -5,7 +5,7 @@
   a programmer or more recently a coder, is a person who creates computer software.
 </p>
 
-<p><img src="https://imageio.forbes.com/specials-images/imageserve/5fd9103fcdfffb8c55b74fb8/Smart-Female-IT-Programer-Working-on-Desktop-Computer-in-Data-Center-System-Control/960x0.jpg?fit=bounds&format=jpg&width=960" width=500px></p>
+<p><img src="https://leverageedu.com/blog/wp-content/uploads/2020/09/How-to-Become-a-Software-Engineer.jpg" width=500px></p>
 
  <img width="25%" align="right" alt="Github Header" src="https://github.com/avinash-218/avinash-218/raw/main/Images/coding_2.gif" />
 
