@@ -24,7 +24,11 @@
  :--- | :---
  
 ## <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="40px">Web-Developer
+
 ## 3 Types of Web Developer
+
+<img src="https://static.vecteezy.com/system/resources/thumbnails/002/214/642/small/web-designer-and-programmer-free-vector.jpg" width="500px">
+
 ### Front-End Developer
 <p>Front-end web development is the development of the graphical user interface of a website, <br> through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website.</p>
 
