@@ -54,7 +54,8 @@
 
 | **CyberSecurity Learning Platforms** | [<img alt="Dev" width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
 [<img alt="Dev" width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
-
+ :--- | :---
+ 
 <hr/> 
 
 ## Learning Sources 
