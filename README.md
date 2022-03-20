@@ -42,7 +42,7 @@
  :--- | :---
 <hr/> 
 
-## CyberSecurity Analyst
+## <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="30px" CyberSecurity Analyst
 <p>A cybersecurity analyst protects company hardware, software, and networks from cybercriminals. <br>The analyst's primary role is to understand company IT infrastructure in detail, monitor it at all times, and evaluate threats that could potentially breach the network.</br>
 
 ## Things to consider to become a CyberSecurity Analyst
