@@ -4,7 +4,7 @@
   a programmer or more recently a coder, is a person who creates computer software.
 </p>
 
-<p align="center"><img src="https://imageio.forbes.com/specials-images/imageserve/5fd9103fcdfffb8c55b74fb8/Smart-Female-IT-Programer-Working-on-Desktop-Computer-in-Data-Center-System-Control/960x0.jpg?fit=bounds&format=jpg&width=960" width=50px></p>
+<p align="center"><img src="https://imageio.forbes.com/specials-images/imageserve/5fd9103fcdfffb8c55b74fb8/Smart-Female-IT-Programer-Working-on-Desktop-Computer-in-Data-Center-System-Control/960x0.jpg?fit=bounds&format=jpg&width=960" width=500px></p>
 
 ## Things to consider to become a Software Engineer
 
