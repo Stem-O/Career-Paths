@@ -53,8 +53,8 @@
 * Apply to relevant cybersecurity jobs
 
 | **CyberSecurity Learning Platforms** | 
- [<img alt="Dev" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
- [<img alt="Dev" src="https://images.ctfassets.net/kvf8rpi09wgk/1pDGaRqRO7QbXZjzDspmqp/d870104b7f0d0727d48d909e3d47cb41/fortinet.png" />](https://www.fortinet.com/)
+ [<img alt="Dev" width="35px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
+ [<img alt="Dev" width="35px" src="https://images.ctfassets.net/kvf8rpi09wgk/1pDGaRqRO7QbXZjzDspmqp/d870104b7f0d0727d48d909e3d47cb41/fortinet.png" />](https://www.fortinet.com/)
  :--- | :---
 <hr/> 
 
