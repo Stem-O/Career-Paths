@@ -25,7 +25,7 @@
  | **Sources to learn Programming** |  [<img alt="Dev" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />](https://www.codecademy.com/) [<img  alt="Dev" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/)  [<img  alt="Dev" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>](https://www.freecodecamp.org/) [<img  alt="Dev" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>](https://www.udemy.com/)  [<img alt="Dev" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6"/>](https://www.udacity.com/)  [<img  alt="Dev" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>](https://www.codewars.com/) 
  
  
-## <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="30px">Web-Developer
+## <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="40px">Web-Developer
 ## 3 Types of Web Developer
 ### Front-End Developer
 <p>Front-end web development is the development of the graphical user interface of a website, <br> through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website.</p>
