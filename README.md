@@ -1,6 +1,6 @@
 # 👨‍💻 Career-Paths for Programmers
 ## Software Engineer
-<p>A computer programmer, sometimes called a software developer,
+<p>A computer programmer, sometimes called a software developer,<br>
   a programmer or more recently a coder, is a person who creates computer software.
 </p>
 
