@@ -55,6 +55,9 @@
 | **CyberSecurity Learning Platform** | [<img alt="Dev" width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
  :--- | :---
  
+ ## <img src="https://avatars1.githubusercontent.com/u/25502277?s=400&v=4" width="30px"> Penetration Tester
+ <p>Penetration testers, or pen testers for short, perform simulated cyberattacks on a company's computer systems and networks. <br> These authorized tests help identify security vulnerabilities and weaknesses before malicious hackers have the chance to exploit them.
+  </p>
 <hr/> 
 
 ## Learning Sources 
