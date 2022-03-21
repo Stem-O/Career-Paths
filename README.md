@@ -61,8 +61,9 @@
  <p>Penetration testers, or pen testers for short, perform simulated cyberattacks on a company's computer systems and networks. <br> These authorized tests help identify security vulnerabilities and weaknesses before malicious hackers have the chance to exploit them.
   </p>
   
- ## Pentesting Learning Platforms  [<img width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
- [<img width="100px" src="https://www.hackthebox.com/images/landingv3/OG_B2C_Homepage.jpg" />](https://hackthebox.eu)
+ ## Pentesting Learning Platforms <br>
+ [<img width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
+ [<img width="100px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png" />](https://hackthebox.eu)
  [<img width="100px" src="https://ctftime.org/media/events/picoCTF_logo_4c_3.png" />](https://picoctf.org/)
 <hr/> 
 
