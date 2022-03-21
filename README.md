@@ -9,6 +9,7 @@
 
  <img width="25%" align="right" alt="Github Header" src="https://github.com/avinash-218/avinash-218/raw/main/Images/coding_2.gif" />
 
+
 ## Things to consider to become a Software Engineer
 
 * Pursue Computer Science Related Fields and Degree. 
@@ -22,6 +23,8 @@
  
 | **Programming Languages to consider learning** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  :--- | :---
+ 
+ <hr/> 
  
 ## <img src="https://www.maxpixel.net/static/photo/640/Icon-Html5-Logo-Html-2582748.png" width="40px">Web-Developer
 
@@ -41,6 +44,8 @@
 | **Programming Languages to consider learning** |  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  :--- | :---
 
+ <hr/> 
+ 
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="30px"> CyberSecurity Analyst
 <p>A cybersecurity analyst protects company hardware, software, and networks from cybercriminals. <br>The analyst's primary role is to understand company IT infrastructure in detail, monitor it at all times, and evaluate threats that could potentially breach the network.</br>
@@ -58,6 +63,7 @@
 [<img alt="Dev" width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
 [<img width="100px" src="https://images.ctfassets.net/kvf8rpi09wgk/1pDGaRqRO7QbXZjzDspmqp/d870104b7f0d0727d48d909e3d47cb41/fortinet.png" />](https://fortinet.org)
 
+ <hr/> 
  
  ## <img src="https://avatars1.githubusercontent.com/u/25502277?s=400&v=4" width="45px"> Penetration Tester
  <p>Penetration testers, or pen testers for short, perform simulated cyberattacks on a company's computer systems and networks. <br> These authorized tests help identify security vulnerabilities and weaknesses before malicious hackers have the chance to exploit them.
@@ -70,7 +76,8 @@
  [<img width="70px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png" />](https://hackthebox.eu)
  [<img width="100px" src="https://ctftime.org/media/events/picoCTF_logo_4c_3.png" />](https://picoctf.org/)
 
-
+ <hr/> 
+ 
 ## <img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="40px"> Game Developer
 <p>Video game developers help transform games from a concept to a playable reality. <br>They do this by coding visual elements, programming features, and testing iterations until a game is ready for market. If you love video games and enjoy working with computers, a career in video game development can be immensely rewarding.
  </p>
