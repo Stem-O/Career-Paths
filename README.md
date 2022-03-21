@@ -105,6 +105,7 @@
  
  ## <img src="https://media.trustradius.com/product-logos/dT/3e/JWKABGMWXUZ3.PNG" width="40px">Network Engineer
  Network engineers (also called network architects) plan, construct and manage networks to ensure they're optimized and functioning as intended.<br> As a network engineer, you're responsible for the foundation of an organization's IT system (and by default, the entire organization).
+ 
  <img src="https://us.123rf.com/450wm/macrovector/macrovector1607/macrovector160700301/59676133-network-engineer-and-it-administrator-2x2-design-concept-set-of-network-diagnostics-users-support-an.jpg?ver=6" width="500px">
  
  ## Educational Website for Networking <br>
