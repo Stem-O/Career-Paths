@@ -52,18 +52,18 @@
 * Research the industry
 * Apply to relevant cybersecurity jobs
 
-| **CyberSecurity Learning Platform** | [<img alt="Dev" width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
+## CyberSecurity Learning Platform** <br>
+[<img alt="Dev" width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
+[<img width="100px" src="https://images.ctfassets.net/kvf8rpi09wgk/1pDGaRqRO7QbXZjzDspmqp/d870104b7f0d0727d48d909e3d47cb41/fortinet.png" />](https://fortinet.org)
 
- :--- | :---
  
  ## <img src="https://avatars1.githubusercontent.com/u/25502277?s=400&v=4" width="45px"> Penetration Tester
  <p>Penetration testers, or pen testers for short, perform simulated cyberattacks on a company's computer systems and networks. <br> These authorized tests help identify security vulnerabilities and weaknesses before malicious hackers have the chance to exploit them.
   </p>
   
- | **Pentesting Learning Platforms** |  [<img width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
+ ## Pentesting Learning Platforms  [<img width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
  [<img width="100px" src="https://www.hackthebox.com/images/landingv3/OG_B2C_Homepage.jpg" />](https://hackthebox.eu)
- :--- | :---
- 
+
 <hr/> 
 
 
