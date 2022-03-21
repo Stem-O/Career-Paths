@@ -115,9 +115,28 @@
  
  <hr/>
  
+ ## Data Science
+ <p>
+  Data science is a field of applied mathematics and statistics that provides useful information based on large amounts of complex data or big data.<br> Data science, or data-driven science, combines aspects of different fields with the aid of computation to interpret reams of data for decision-making purposes.
+</p>
+
+ <img src="https://miro.medium.com/max/800/0*8cT_ngBHo4vQB5sr.jpg" width="500px"/>
+ 
+ | **Programming Languages to consider learning for Data Science** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ :--- | :---
+  
+ 
+ ## Things to consider to become a Data Scientist
+ * Skill 1: Gain database knowledge which is required to store and analyze data using tools such as Oracle® Database, MySQL®, Microsoft® SQL Server and Teradata®. 
+ * Skill 2: Learn statistics, probability and mathematical analysis.
+ 
+ 
+ </hr>
+ 
+ 
 ## Learning Sources 
 
- | **Sources** |  [<img alt="Dev" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />](https://www.codecademy.com/) [<img  alt="Dev" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/)  [<img  alt="Dev" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>](https://www.freecodecamp.org/) [<img  alt="Dev" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>](https://www.udemy.com/)  [<img alt="Dev" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6"/>](https://www.udacity.com/)  [<img  alt="Dev" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>](https://www.codewars.com/)  
+ | **Sources** |  [<img alt="Dev" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />](https://www.codecademy.com/) [<img  alt="Dev" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/)  [<img  alt="Dev" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>](https://www.freecodecamp.org/) [<img  alt="Dev" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>](https://www.udemy.com/)  [<img alt="Dev" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6"/>](https://www.udacity.com/)  [<img  alt="Dev" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>](https://www.codewars.com/)  [<img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>](https://www.geeksforgeeks.org) [<img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white"/>](https://www.khanacademy.org)
   :--- | :---
  <hr/> 
  
