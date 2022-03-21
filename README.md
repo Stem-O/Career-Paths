@@ -108,7 +108,7 @@
  <img src="https://us.123rf.com/450wm/macrovector/macrovector1607/macrovector160700301/59676133-network-engineer-and-it-administrator-2x2-design-concept-set-of-network-diagnostics-users-support-an.jpg?ver=6" width="500px">
  
  ## Educational Website for Networking <br>
-[<img width="100px" src="https://cpl.thalesgroup.com/sites/default/files/content/partners/logo/2020-03/Cisco.jpg"/>](https://www.netacad.com/)
+[<img width="120px" src="https://cpl.thalesgroup.com/sites/default/files/content/partners/logo/2020-03/Cisco.jpg"/>](https://www.netacad.com/)
  
  <hr/>
  
