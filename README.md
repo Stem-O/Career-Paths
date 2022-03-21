@@ -62,7 +62,9 @@
  ## <img src="https://avatars1.githubusercontent.com/u/25502277?s=400&v=4" width="45px"> Penetration Tester
  <p>Penetration testers, or pen testers for short, perform simulated cyberattacks on a company's computer systems and networks. <br> These authorized tests help identify security vulnerabilities and weaknesses before malicious hackers have the chance to exploit them.
  </p>
-  
+
+<img src="https://cdn.funinformatique.com/wp-content/uploads/2020/01/17180427/pentester-1.jpg" width="500px"/>
+
  ## Pentesting Learning Platforms <br>
  [<img width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
  [<img width="70px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png" />](https://hackthebox.eu)
