@@ -63,6 +63,7 @@
 
 ## CyberSecurity Learning Platform <br>
 [<img alt="Dev" width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
+[<img width="70px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png" />](https://hackthebox.eu)
 [<img width="100px" src="https://images.ctfassets.net/kvf8rpi09wgk/1pDGaRqRO7QbXZjzDspmqp/d870104b7f0d0727d48d909e3d47cb41/fortinet.png" />](https://fortinet.org)
 
  <hr/> 
