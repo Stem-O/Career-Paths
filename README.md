@@ -94,6 +94,15 @@
  
  <hr/> 
  
+ <img src="https://cdn.freebiesupply.com/logos/large/2x/google-play-store-logo-png-transparent.png" width="40px"> App Developer
+ <p> An application developer's typical responsibilities include coding, designing, application management, troubleshooting, monitoring updates and possible security threats, and providing end user support. <br> They may also handle some project management tasks on the journey to building a new application.
+  <img src"https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2020/11/02235040/how-to-become-a-mobile-app-developer.png" width="500px"/>
+  
+| **Programming Languages to consider learning for app dev** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+  
+ <hr/>
+ 
 ## Learning Sources 
 
  | **Sources** |  [<img alt="Dev" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />](https://www.codecademy.com/) [<img  alt="Dev" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/)  [<img  alt="Dev" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>](https://www.freecodecamp.org/) [<img  alt="Dev" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>](https://www.udemy.com/)  [<img alt="Dev" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6"/>](https://www.udacity.com/)  [<img  alt="Dev" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>](https://www.codewars.com/) 
