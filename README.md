@@ -72,7 +72,7 @@
 <hr/> 
 
 
-## <img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="40px" Game Developer>
+## <img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="40px"> Game Developer
 <p>Video game developers help transform games from a concept to a playable reality. <br>They do this by coding visual elements, programming features, and testing iterations until a game is ready for market. If you love video games and enjoy working with computers, a career in video game development can be immensely rewarding.
  </p>
  
