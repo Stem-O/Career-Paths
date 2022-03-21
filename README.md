@@ -52,7 +52,7 @@
 * Research the industry
 * Apply to relevant cybersecurity jobs
 
-## CyberSecurity Learning Platform** <br>
+## CyberSecurity Learning Platform <br>
 [<img alt="Dev" width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
 [<img width="100px" src="https://images.ctfassets.net/kvf8rpi09wgk/1pDGaRqRO7QbXZjzDspmqp/d870104b7f0d0727d48d909e3d47cb41/fortinet.png" />](https://fortinet.org)
 
@@ -63,7 +63,7 @@
   
  ## Pentesting Learning Platforms  [<img width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
  [<img width="100px" src="https://www.hackthebox.com/images/landingv3/OG_B2C_Homepage.jpg" />](https://hackthebox.eu)
-
+ [<img width="100px" src="https://ctftime.org/media/events/picoCTF_logo_4c_3.png" />](https://picoctf.org/)
 <hr/> 
 
 
