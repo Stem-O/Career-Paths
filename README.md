@@ -75,8 +75,15 @@
 <p>Video game developers help transform games from a concept to a playable reality. <br>They do this by coding visual elements, programming features, and testing iterations until a game is ready for market. If you love video games and enjoy working with computers, a career in video game development can be immensely rewarding.
  </p>
  
+ ## Skills need for game dev
+ * Unity is a cross-platform game engine that allows you to develop 2D and 3D games. Unity is particularly popular for indie and mobile games. It’s free for students and for personal use, so you can start creating games (and gaining experience) before you get hired.
+* Unreal Engine, while initially developed for first-person shooters, has grown into a 3D creation platform used for games across a range of platforms. Unreal uses C++ as its programming language.
+* C# (pronounced C-sharp) is a programming language frequently used for game development and mobile applications, particularly with the Unity engine.
+* C++ Is a general-purpose programming language often used to develop not only games, but operating systems and applications as well.   
+ 
 | **Programming Languages to consider learning for game dev** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  :--- | :---
+ 
  
  <hr/> 
  
