@@ -53,7 +53,7 @@
 * Apply to relevant cybersecurity jobs
 
 | **CyberSecurity Learning Platform** | [<img alt="Dev" width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
-[<img width="100px" src="https://www.hackthebox.com/images/landingv3/OG_B2C_Homepage.jpg" />](https://hackthebox.eu)
+
  :--- | :---
  
  ## <img src="https://avatars1.githubusercontent.com/u/25502277?s=400&v=4" width="45px"> Penetration Tester
@@ -61,6 +61,7 @@
   </p>
   
  | **Pentesting Learning Platforms** |  [<img width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
+ [<img width="100px" src="https://www.hackthebox.com/images/landingv3/OG_B2C_Homepage.jpg" />](https://hackthebox.eu)
  :--- | :---
  
 <hr/> 
