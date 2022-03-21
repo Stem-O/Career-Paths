@@ -69,7 +69,6 @@
  [<img width="100px" src="https://miro.medium.com/max/850/1*yDuZYabQJjMseMIZXSCQXQ.png" />](https://tryhackme.com)
  [<img width="70px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/e35a902c-7cef-49f1-800a-1e75acf39a96-profile_image-300x300.png" />](https://hackthebox.eu)
  [<img width="100px" src="https://ctftime.org/media/events/picoCTF_logo_4c_3.png" />](https://picoctf.org/)
-<hr/> 
 
 
 ## <img src="https://cdn.freebiesupply.com/images/large/2x/steam-logo-transparent.png" width="40px"> Game Developer
@@ -80,8 +79,9 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- :--- | :---
+---
  
+ <hr/> 
 ## Learning Sources 
 
  | **Sources** |  [<img alt="Dev" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />](https://www.codecademy.com/) [<img  alt="Dev" src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />](https://www.coursera.org/)  [<img  alt="Dev" src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green"/>](https://www.freecodecamp.org/) [<img  alt="Dev" src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white"/>](https://www.udemy.com/)  [<img alt="Dev" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6"/>](https://www.udacity.com/)  [<img  alt="Dev" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/>](https://www.codewars.com/) 
