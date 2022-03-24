@@ -31,7 +31,7 @@
 
 ## 3 Types of Web Developer
 
-<img src="https://s3.studytonight.com/curious/uploads/pictures/1631515190-79542.png" width="500px">
+<img src="https://www.edureka.co/blog/wp-content/uploads/2018/10/How-to-become-a-Full-Stack-Web-Developer--451x300.png" width="500px">
 
 ### Front-End Developer
 <p>Front-end web development is the development of the graphical user interface of a website, <br> through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website.</p>
